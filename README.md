@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Golden Solar Calculator
 
 A clean, modern 2-step solar calculator with lead capture.
@@ -41,3 +42,6 @@ Edit `script.js` and replace `YOUR_WEBHOOK_URL_HERE` with your actual webhook UR
 - `style.css` - Clean, modern styling
 - `script.js` - Calculation logic + lead capture
 - `leads.json` - Optional (not needed with webhook)
+=======
+# -solar-calc-golden
+>>>>>>> eae5858d54f79714765dcf9bc276facdf42a6550
